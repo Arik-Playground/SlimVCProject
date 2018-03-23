@@ -1,7 +1,12 @@
 # SlimVCProject
 an SDK &amp; template for making Slim C++ Projects.
-That way the vcxproj files are much simpler to read, edit and diff.
+That way the vcxproj files are much simpler to read, edit and diff, So instead of having projects of this size:
 
+[Normal Visual Studio project](ReadmeFiles\NormalVsProject.png?raw=true)
+
+Projects would look like that:
+
+[Slim Visual Studio project](ReadmeFiles\SlimVsProject.png?raw=true)
 
 ## Installation
 
